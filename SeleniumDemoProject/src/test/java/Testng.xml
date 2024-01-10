@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testing Yahoo Login Page">
+<Suite name= "Suite" parallel="methods" thread-count="3"/>
+
+<listeners>  
+<listener class-name="ListnersDemo.ListenerTest"/>  
+</listeners>  
+
+    <test name="Regression">
+    <parameter name='Browser' value="chrome"/>
+    <parameter name='url' value="https://login.yahoo.com/"/>
+    <parameter name='EmailId' value="TestingYahoo@yahoo.com"/>
+    
+         <classes>
+             <class name="Testngpackage.Parallleexecution"/>
+             
+          </classes>
+     </test> <!-- Test -->
+</suite> <!-- Suite -->

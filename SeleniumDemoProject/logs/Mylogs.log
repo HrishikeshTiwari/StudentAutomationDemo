@@ -1,0 +1,17 @@
+[INFO ] 2024-01-04 15:40:33.565 [main] Log4jDemo - This is logger information
+[ERROR] 2024-01-04 15:40:33.567 [main] Log4jDemo - this is error message
+[WARN ] 2024-01-04 15:40:33.567 [main] Log4jDemo - this warning message
+[FATAL] 2024-01-04 15:40:33.567 [main] Log4jDemo - this is fatal message
+[INFO ] 2024-01-04 15:42:48.134 [main] Log4jDemo - This is logger information
+[ERROR] 2024-01-04 15:42:48.136 [main] Log4jDemo - this is error message
+[WARN ] 2024-01-04 15:42:48.137 [main] Log4jDemo - this warning message
+[FATAL] 2024-01-04 15:42:48.137 [main] Log4jDemo - this is fatal message
+[INFO ] 2024-01-04 15:43:39.104 [main] Log4jDemo - This is logger information
+[ERROR] 2024-01-04 15:43:39.107 [main] Log4jDemo - this is error message
+[WARN ] 2024-01-04 15:43:39.109 [main] Log4jDemo - this warning message
+[FATAL] 2024-01-04 15:43:39.109 [main] Log4jDemo - this is fatal message
+[TRACE] 2024-01-04 15:45:05.679 [main] Log4jDemo - this is trace message
+[INFO ] 2024-01-04 15:45:05.681 [main] Log4jDemo - This is logger information
+[ERROR] 2024-01-04 15:45:05.681 [main] Log4jDemo - this is error message
+[WARN ] 2024-01-04 15:45:05.681 [main] Log4jDemo - this warning message
+[FATAL] 2024-01-04 15:45:05.681 [main] Log4jDemo - this is fatal message
